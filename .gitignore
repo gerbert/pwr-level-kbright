@@ -1,0 +1,7 @@
+_autosave-pwr-level.pro
+*.sch-bak
+*.kicad_pcb-bak
+wr-level-cache.lib
+fp-info-cache
+.DS_Store
+
